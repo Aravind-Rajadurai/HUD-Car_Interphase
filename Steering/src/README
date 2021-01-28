@@ -1,0 +1,45 @@
+ABOUT
+=====
+All codes are derived from source originally written by
+Mat Buckland (fup@ai-junkie.com)
+for his book
+...............................
+Programming Game AI by Example 
+(September 30, 2004  | ISBN-10: 1556220782  | ISBN-13: 978-1556220784  | Edition: 1)
+................................
+
+You can buy the book here:
+http://www.amazon.com/Programming-Game-Example-Mat-Buckland/dp/1556220782
+Mat Buckland
+or (and you can get the original code) at this location:
+http://www.jblearning.com/Catalog/9781556220784/student/
+
+I recommend you this book!
+
+LICENSE
+=======
+Excluding parts with their own licences, all source code are distributed
+with MIT License:
+
+Copyright (c) <2012> <Petr Bilek, http://www.sallyx.org/game-ai/>
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.

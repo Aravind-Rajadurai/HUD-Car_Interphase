@@ -1,0 +1,10 @@
+Path.java: CurrentWaypoint(): assert cannot be compilet at VS2010/2008
+Path.java: Constructor:     curWaypoint = m_WayPoints.begin(); was redundand code
+Path.java: void AddWayPoint(Vector2D new_point) not defined
+GameWorld: In constructor: call new method BaseGameEntity.resetValidID() to get new game entity with ID() == 0
+
+After changing params.ini you have to "Clean and Build" (in NetBeans),
+otherwise the changes will not work.
+
+TODO:
+ Cgdi.HollowBrush()
